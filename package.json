@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@headlessui/react": "^1.6.4",
     "phosphor-react": "^1.4.1"
   }
 }
