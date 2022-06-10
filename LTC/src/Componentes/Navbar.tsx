@@ -50,7 +50,7 @@ export function Navbar(){
                                 <div className="flex flex-col pt-5  ">
 
                                 <span className="hover:text-zinc-400 cursor-pointer py-2 transition-all">
-                                    Cursos
+                                    <a href="">Cursos</a>
                                 </span>
 
                                 <span className="hover:text-zinc-400 cursor-pointer py-2 transition-all">
